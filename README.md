@@ -1,4 +1,4 @@
-# User Management API
+# Prueba Técnica Solati
 
 Este proyecto es una aplicación web que permite gestionar usuarios a través de un servicio web tipo REST. Está desarrollada en PHP con PostgreSQL y utiliza el patrón de diseño MVC (Modelo-Vista-Controlador) y el patrón DAO (Data Access Object) para acceder a los datos.
 
