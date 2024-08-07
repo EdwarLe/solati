@@ -14,6 +14,10 @@ Este proyecto es una aplicación web que permite gestionar usuarios a través de
   - `Database.php` - Archivo de conexión a la base de datos.
 - **views/**
   - `index.php` - Vista principal que muestra los formularios y la lista de usuarios.
+- **css/**
+  - `styles.css` - Archivo de estilos básicos.
+- **js/**
+  - `index.js` - Archivo con la lógica básica para el fetching de datos.
 - `index.php` - Archivo principal que dirige las solicitudes a los controladores adecuados.
 
 ## Instalación y Configuración
