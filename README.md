@@ -35,7 +35,7 @@ Este proyecto es una aplicación web que permite gestionar usuarios a través de
 3. **Selecciona la base de datos:**
 
     ```sql
-    \c solati_db
+    \c usuarios_db
     ```
 
 4. **Crea la tabla de usuarios:**
@@ -58,8 +58,8 @@ Este proyecto es una aplicación web que permite gestionar usuarios a través de
     ```php
     <?php
     define('DB_HOST', 'localhost');
-    define('DB_NAME', 'solati_db');
-    define('DB_USER', 'root');
+    define('DB_NAME', 'usuarios_db'); // Cambia esto por el nombre de la base de datos
+    define('DB_USER', 'root'); // Cambia esto si tienes un nombre de usuario diferente
     define('DB_PASSWORD', ''); // Cambia esto si tienes una contraseña
     ?>
     ```
